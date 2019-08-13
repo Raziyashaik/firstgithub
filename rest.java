@@ -3,4 +3,4 @@
 		
 		System.out.println("GOOD");
 		mapper= new ObjectMapper();
-		//employeeManager.addEmployee(v);
+		employeeManager.addEmployee(v);
